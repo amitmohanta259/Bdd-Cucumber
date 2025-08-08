@@ -18,4 +18,8 @@ public class LoginPage {
 	public void login() {
 		loginSignUpButton.click();
 	}
+	
+	public void logout() {
+		
+	}
 }
